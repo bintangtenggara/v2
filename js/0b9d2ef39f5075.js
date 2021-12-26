@@ -6,7 +6,7 @@
                     sid: 1,
                     statsPath: 'stats',
                     playedPath: 'played',
-                    //directStreamURL: 'https://www.rcast.net/proxy/159652.aac',
+                    directStreamURL: 'https://ssg.streamingmurah.com:9560/rbt',
                     ui: 'colored',
                     theme: 'dynamic',
                     colors: 'dynamic',
