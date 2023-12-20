@@ -95,7 +95,7 @@ function Page() {
         var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
 
         // Default cover art
-        var urlCoverArt = 'img/bg-capa.jpg';
+        var urlCoverArt = 'https://cdn.bintangtenggarafm.com/img/fF8yUE0.png?v=1.1.1.1';
 
         // Get cover art for song history
         var xhttp = new XMLHttpRequest();
@@ -133,7 +133,7 @@ function Page() {
 
     this.refreshCover = function (song = '', artist) {
         // Default cover art
-        var urlCoverArt = 'img/bg-capa.jpg';
+        var urlCoverArt = 'https://cdn.bintangtenggarafm.com/img/fF8yUE0.png?v=1.1.1.1';
 
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
