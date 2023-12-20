@@ -384,7 +384,7 @@ function getStreamingData() {
             currentArtist = artist.replace(/&amp;/g, '&');
 
             // Change the title
-            document.title = currentSong + ' - ' + currentArtist + ' | ' + RADIO_NAME;
+            document.title = currentArtist + ' - ' + currentSong + ' | ' + RADIO_NAME;
 
             if (document.getElementById('currentSong').innerHTML !== song) {
                 page.refreshCover(currentSong, currentArtist);
