@@ -1,6 +1,6 @@
 @charset 'utf-8';
 @import url('https://fonts.googleapis.com/css?family=Share:400i,700i');
-@import url('bootstrap.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css');
 
 html, body {
     height: 100%;
@@ -57,7 +57,7 @@ body {
 .cover-album {
     max-width: 80%;
     margin: auto;
-    background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWeI_jc8OFPc3AAMh32jSMjX0WCCjfSN_LVG3_-e6LyMLy5b0HvHX2LoWWeX2X_9O2w-Ay5eflh0mBhSJITekyEBRgtJQDoLf5RpBAOC4P37NNVAdYTgYNSK5A8dAZgyVpsRAeyJai9xCNsuuXZz4-EFMWY3HaJs91H1XAX85XpVGODGTJ_8XYIM1c4ChL/s1600/nocoverart.jpg') no-repeat;
+    background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqSBoMLhYUfMpcLCG8vnxg_i_P4kQCaoR7eChWvwOJg-KE-1EZ6p-ZYUf813dVpvxJ93pFjenIL_8XQED2PqFIY5_DUjvkjFTlGFpimKPqHWyVWmoYW3nhyleJpYCctE_gUesigA-DJJMdGUGMqvBHSYwVhX6V5mFIFLYGFhb_29I2uGLTYaZLVeoZm2BS/s1600/rbtfm.jpg') no-repeat;
     background-size: cover;
     border: 1px solid #fefefe;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
@@ -69,7 +69,7 @@ body {
 .watermark {
     width: 89px;
     height: 55px;
-    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWzLDv_HJEsmmnSEFBeFfT90qew2K7aT0tI7d0A04ta5vbLYlorg_yjHSneI8VHG6yNKj-W2fSgPmbdBp6_NELu-w_2pcbdN3a3Xmdf70EuYj49hO2EDRtde2bWAMADr-RwhVrNxWY29obydA4FYrXf05kvlHATT2D5_IimNgwcPR8L1nSsUJCdxOVAa5/s1600/28115974.png) no-repeat;
+    background: url(../img/QTrnfVE.png) no-repeat;
     background-size: auto 35px;
     opacity: 0.5;
     position: relative;
@@ -112,7 +112,8 @@ body {
 }
 
 .play-pause i {
-    cursor: pointer;
+    cursor: pointer; 
+    color: rgba(221,81,16,1)!important;
 }
 
 .volume-icon {
@@ -269,7 +270,7 @@ input[type=range]::-ms-thumb {
     margin-right: 15px;
     float: left;
     border-radius: 10px;
-    background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWeI_jc8OFPc3AAMh32jSMjX0WCCjfSN_LVG3_-e6LyMLy5b0HvHX2LoWWeX2X_9O2w-Ay5eflh0mBhSJITekyEBRgtJQDoLf5RpBAOC4P37NNVAdYTgYNSK5A8dAZgyVpsRAeyJai9xCNsuuXZz4-EFMWY3HaJs91H1XAX85XpVGODGTJ_8XYIM1c4ChL/s1600/nocoverart.jpg') no-repeat;
+    background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqSBoMLhYUfMpcLCG8vnxg_i_P4kQCaoR7eChWvwOJg-KE-1EZ6p-ZYUf813dVpvxJ93pFjenIL_8XQED2PqFIY5_DUjvkjFTlGFpimKPqHWyVWmoYW3nhyleJpYCctE_gUesigA-DJJMdGUGMqvBHSYwVhX6V5mFIFLYGFhb_29I2uGLTYaZLVeoZm2BS/s1600/rbtfm.jpg') no-repeat;
     background-size: cover;
     border: 2px solid #fefefe;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
