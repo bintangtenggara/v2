@@ -28,7 +28,7 @@
                     playedArtists: true,
                     offlineCheck: false,
                     mobileCare: ['false'],
-                    language: {offlineText: 'Temporarily Offline', playedText: '<font face="Georgia" color="Deep Pink">Wes Mari Diputer :</font>', unknownTrackText: 'Informasi Dan Solusi', unknownArtistText: 'Radio Bintang Tenggara'},
+                    language: {offlineText: 'Temporarily Offline', playedText: '<font face="Georgia" color="Deep Pink">Wes Mari Diputer :</font>', unknownTrackText: 'Informasi & Solusi', unknownArtistText: 'Radio Bintang Tenggara'},
                     irrelevantWords: ["false"],
                     skipInfo: false,
                     defaultArtwork: ['https://warningfm.github.io/v3/wrd/img/no-cover-large.png'],
