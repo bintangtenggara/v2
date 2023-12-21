@@ -8,7 +8,7 @@ var API_SERVICE = 'spotify';
 //PASTE YOUR MEDIA CP JSON URL HERE TO GET NOW PLAYING SONG TITLE.
 const MEDIACP_JSON_URL = ''
 
-// Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
+// Change Stream URL Here, Supports, Icecast, Zeno, Shoutcast, Radiojar and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/r4mpcrfwfzzuv';
 
 //ZENO ID
