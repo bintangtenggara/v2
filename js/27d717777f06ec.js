@@ -11,7 +11,8 @@
         protocol: 'https',
         version: 2,  
         sid: 1,  
-        direct: true,
+        direct: true,  
+        betaProxies: false,
         directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false, 
@@ -19,7 +20,7 @@
         startTemplate: 'maximized',
         language: {
             offlineText: 'Temporarily Offline',
-            playedText: '<font face="Georgia" color="blue">Wes Mari Diputer :</font>',
+            playedText: '<font face="Georgia" color="blue">Mari Diputer :</font>',
             unknownTrackText: 'Informasi & Solusi - c^o^d^e^l^i^s^t^.^c^c', 
             unknownArtistText: 'Radio Bintang Tenggara' 
         },
