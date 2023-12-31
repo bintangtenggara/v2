@@ -23,7 +23,7 @@
             unknownArtistText: 'Radio Bintang Tenggara' 
         },
         position: 'right',
-        colors: 'dynamic',
+        colors: 'dynamic',  continuous: true,
         theme: 'dynamic',
         autoPlay: true,
         played: true
