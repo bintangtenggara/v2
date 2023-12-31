@@ -6,10 +6,10 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
+        host: 'ssg.streamingmurah.com',
         port: 9560,
-        protocol: 'http',
-        version: 1,
+        protocol: 'https',
+        version: 2,  sid: 1,
         directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false, 
