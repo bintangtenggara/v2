@@ -82,7 +82,7 @@ function Page() {
         const Commercialbreak = "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat ="https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
-        const TANDAWAKTUSHOLATDHUHUR = "img/izveduvaci/tanda.waktu.sholat.dhuhur.jpg";
+        const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
         const JINGLE = "https://cdn.bintangtenggarafm.com/img/ed6F7ZU.png";
         const JELAJAHDESA = "https://i.imgur.com/TfCuTLe.jpg";
         const TS = "https://img.freepik.com/premium-vector/hourglass-signal-technology-connection-logo-design_100735-126.jpg";
@@ -474,7 +474,7 @@ function Page() {
         const Commercialbreak = "https://live.staticflickr.com/65535/53456049137_725d31457d_b.jpg";
         const RadioBintangTenggara = "https://cdn.bintangtenggarafm.com/img/fF8yUE0.png";
         const SolusiSehat = "https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
-        const TANDAWAKTUSHOLATDHUHUR = "img/izveduvaci/tanda.waktu.sholat.dhuhur.jpg";
+        const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
         const JINGLE = "https://cdn.bintangtenggarafm.com/img/ed6F7ZU.png";
         const JELAJAHDESA = "https://i.imgur.com/TfCuTLe.jpg";
         const TS = "https://img.freepik.com/premium-vector/hourglass-signal-technology-connection-logo-design_100735-126.jpg";
