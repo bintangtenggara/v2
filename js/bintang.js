@@ -128,7 +128,7 @@ function Page() {
         const KUKULELE = 'img/izveduvaci/KUKULELE.jpg';
         const IGOR = 'img/izveduvaci/IGOR.jpg';
         const DANI = 'img/izveduvaci/DANI.jpg';
-        const BTS = 'https://i.imgur.com/f0nFHPA.jpg';
+        const BTS = 'https://live.staticflickr.com/65535/53459011184_1df18fcc82_b.jpg';
         const FurkanSert  = 'https://i1.sndcdn.com/artworks-000498456858-0gn1c8-t500x500.jpg';
         const ELENAR = 'img/izveduvaci/ELENAR.jpg';
         const LAMBE = 'img/izveduvaci/LABME.jpg';
