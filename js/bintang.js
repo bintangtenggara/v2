@@ -21,8 +21,8 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-//ZENO ID
-var zenoid = 'r4mpcrfwfzzuv'
+//API URL / if you use MEDIA CP, CHANGE THIS TO : https://api.streamafrica.net/metadata/mediacp.php?url='+MEDIACP_JSON_URL
+const API_URL = 'https://api.streamafrica.net/metadata/index.php?z='+URL_STREAMING
 
 window.onload = function () {
     var page = new Page;
@@ -1094,7 +1094,7 @@ function getStreamingData() {
     var d = new Date();
 
     // Requisition with timestamp to prevent cache on mobile devices
-    xhttp.open('GET', 'https://api.streamafrica.net/zeno/index.php?z='+zenoid);
+    xhttp.open('GET', API_URL);
     xhttp.send();
 }
 
