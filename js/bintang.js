@@ -472,7 +472,7 @@ function Page() {
     this.refreshCover = function (song = '', artist) {
         const JINGLESETELAHIKLAN = "https://cdn.bintangtenggarafm.com/img/dbwvp4y.png";
         const Commercialbreak = "https://live.staticflickr.com/65535/53456049137_725d31457d_b.jpg";
-        const RadioBintangTenggara = "https://cdn.bintangtenggarafm.com/img/fF8yUE0.png";
+        const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat = "https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
         const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
         const JINGLE = "https://cdn.bintangtenggarafm.com/img/ed6F7ZU.png";
