@@ -79,7 +79,7 @@ function Page() {
 
         // Defining Track Backgrounds - Above
         const JINGLESETELAHIKLAN = "https://cdn.bintangtenggarafm.com/img/dbwvp4y.png";
-        const Commercialbreak = "https://i1.sndcdn.com/artworks-000323501304-hdlkut-t500x500.jpg";
+        const Commercialbreak = "https://m.media-amazon.com/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat ="https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
         const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
@@ -471,7 +471,7 @@ function Page() {
      // Artist Covers - Below 
     this.refreshCover = function (song = '', artist) {
         const JINGLESETELAHIKLAN = "https://cdn.bintangtenggarafm.com/img/dbwvp4y.png";
-        const Commercialbreak = "https://i1.sndcdn.com/artworks-000323501304-hdlkut-t500x500.jpg";
+        const Commercialbreak = "https://m.media-amazon.com/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat = "https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
         const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
