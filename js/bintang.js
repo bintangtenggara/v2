@@ -82,8 +82,8 @@ function Page() {
         const Commercialbreak = "https://m.media-amazon.com/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat ="https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
-        const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
-        const JINGLE = "https://cdn.bintangtenggarafm.com/img/ed6F7ZU.png";
+        const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/9f/55/fwWLo8Ea_t.jpg";
+        const JINGLE = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://live.staticflickr.com/65535/53458825460_e0e9c45aba.jpg";
         const TS = "https://images2.imgbox.com/20/89/lHULgj2p_o.jpg";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/512x512bb.png";
@@ -474,8 +474,8 @@ function Page() {
         const Commercialbreak = "https://m.media-amazon.com/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
         const SolusiSehat = "https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
-        const TANDAWAKTUSHOLATDHUHUR = "https://i.imgur.com/iGhUO1x.jpg";
-        const JINGLE = "https://cdn.bintangtenggarafm.com/img/ed6F7ZU.png";
+        const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/9f/55/fwWLo8Ea_t.jpg";
+        const JINGLE = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://live.staticflickr.com/65535/53458825460_e0e9c45aba.jpg";
         const TS = "https://images2.imgbox.com/20/89/lHULgj2p_o.jpg";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/512x512bb.png";
