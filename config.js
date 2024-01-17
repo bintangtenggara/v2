@@ -12,11 +12,11 @@ var settings = {
     'radio_name': 'BINTANG TENGGARA',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://ssg.streamingmurah.com:9560/rbtfm',
+    'url_streaming': 'https://sv.stri.my.id/radio/8360/rbtfm',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast' or 'zeno'
-    'streaming_type': 'shoutcast',
+    'streaming_type': 'icecast',
 
     // Visit https://api.vagalume.com.br/docs/ to get your API key
     'api_key': '18fe07917957c289983464588aabddfb',
