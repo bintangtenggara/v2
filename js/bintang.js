@@ -460,11 +460,11 @@ function Page() {
         const JINGLE = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://live.staticflickr.com/65535/53458825460_e0e9c45aba.jpg";
         const TS = "https://images2.imgbox.com/20/89/lHULgj2p_o.jpg";
-        const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/512x512bb.png";
+        const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/640x640bb.png";
         const LylaBand = 'https://2.bp.blogspot.com/_RgDaNmR-Ot8/Scs48y51rpI/AAAAAAAAATk/fvRR3DzK6u8/w1200-h630-p-k-no-nu/lyla3.jpg';
         const WISATABUDAYA = 'https://images2.imgbox.com/7e/dc/vOGdajpd_o.jpg';
         const Dengarkami = 'https://thumbs2.imgbox.com/3f/c4/yx3lPLHp_t.jpg';
-        const LAGUPENUTUPRADIO = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/500x500bb.jpg';
+        const LAGUPENUTUPRADIO = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/5640x640bb.jpg';
         const RENDRAPRASETYO = 'https://live.staticflickr.com/65535/53455348976_e4bc1d6d8c_z.jpg';
         const RONI = 'https://live.staticflickr.com/65535/53454432287_67f8f2c3a7_n.jpg';
         const Silvi = 'https://live.staticflickr.com/65535/53455363926_67074fffcc_z.jpg';
