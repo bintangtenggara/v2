@@ -142,7 +142,7 @@ function Page() {
         if (artistRadio == 'JINGLE SETELAH IKLAN') {
             var urlCoverArt = JINGLESETELAHIKLAN;
         }
-        else if (artistRadio == 'Commercial break'){
+        else if (artistRadio == 'Commercial Break'){
             var urlCoverArt = Commercialbreak;
         }
         else if (artistRadio == 'Radio Bintang Tenggara'){
@@ -536,7 +536,7 @@ function Page() {
         if (artist  == 'JINGLE SETELAH IKLAN') {
             var urlCoverArt = JINGLESETELAHIKLAN;
         }
-        else if (artist == 'Commercial break'){
+        else if (artist == 'Commercial Break'){
             var urlCoverArt = Commercialbreak;
         }
         else if (artist == 'Radio Bintang Tenggara'){
