@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'BINTANG TENGGARA',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://ssg.streamingmurah.com:9560/rbtfm',
+    'url_streaming': 'https://stream.zeno.fm/r4mpcrfwfzzuv',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast' or 'zeno'
