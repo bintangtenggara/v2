@@ -89,7 +89,7 @@ function Page() {
         const DemyYoker = 'https://cdns.klimg.com/resized/670x/g/1/1/11_fakta_perjalanan_karir_demy_hardi_pedandut_hits_banyuwangi_tak_punya_niatan_jadi_penyanyi_-_terkesan_dengan_fans_anak-anak/p/demy-20211112-006-non_fotografer_kly.jpg';
         const AlviAnanta = 'https://joox-cms-image-1251316161.file.myqcloud.com/2021/09/28/8cbaa312-151c-4ba3-b28e-52c5be1c2766.jpg/500';
         const BintangTenggara = 'https://thumbs2.imgbox.com/b1/4a/3kNlaBwy_t.jpg';
-        const ALEKSANDARM = 'img/izveduvaci/ALEKSANDARM.jpg';
+        const Citizen = 'https://i.imgur.com/k9BYz53.jpg';
         const DZAFER = 'img/izveduvaci/DZAFER.jpg';
         const BOJS = 'img/izveduvaci/BOJS.jpg';
         const MIJ = 'img/izveduvaci/MIJ.jpg';
@@ -226,8 +226,8 @@ function Page() {
         else if (artistRadio == 'Bintang Tenggara'){
             var urlCoverArt = BintangTenggara;
         }
-        else if (artistRadio == 'LAMBE I LJUPKA'){
-            var urlCoverArt = LAMBE;
+        else if (artistRadio == 'Citizen Journalism'){
+            var urlCoverArt = Citizen;
         }
         else if (artistRadio == 'LAMBE ALABAKOVSKI'){
             var urlCoverArt = LAMBE;
@@ -470,7 +470,7 @@ function Page() {
         const Silvi = 'https://live.staticflickr.com/65535/53455363926_67074fffcc_z.jpg';
         const NURUL = 'https://live.staticflickr.com/65535/53455379586_f43d29dc84_n.jpg';
         const BintangTenggara = 'https://thumbs2.imgbox.com/b1/4a/3kNlaBwy_t.jpg';
-        const TOPIC = 'img/izveduvaci/TOPIC.jpg';
+        const Citizen = 'https://i.imgur.com/k9BYz53.jpg';
         const SIGALA = 'img/izveduvaci/SIGALA.jpg';
         const THEA = 'img/izveduvaci/THEA.jpg';
         const DARIO = 'img/izveduvaci/DARIO.jpg';
@@ -587,8 +587,8 @@ function Page() {
          else if (artist == 'Bintang Tenggara'){
             var urlCoverArt = BintangTenggara;
         }
-        else if (artist == 'NEXT TIME'){
-            var urlCoverArt = NEXTTIME;
+        else if (artist == 'Citizen Journalism'){
+            var urlCoverArt = Citizen;
         }
         else if (artist == 'VRCAK'){
             var urlCoverArt = VRCAK;
