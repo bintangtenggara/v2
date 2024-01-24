@@ -21,9 +21,90 @@
     <meta property="og:image:width" content="512">
     <meta property="og:image:height" content="512">
     <link rel="icon" type="image/png" href="img/favicon.png" />
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/animate.css">
-    <link rel="stylesheet" href="css/style.css?v24000">
+    <link rel="icon" type="image/png" href="https://cdn.bintangtenggarafm.com/img/favicon.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link id="maintheme" href="https://warningfm.github.io/v3/css/combro.css" rel="stylesheet" type="text/css"> 
+    <style>
+.cover-site {
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    background: url('https://cdn.bintangtenggarafm.com/img/wO8J9xT.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: background-image 1s;
+    background-position: center;
+    background-attachment: fixed;
+}
+.cover-album {
+    max-width: 80%;
+    margin: auto;
+    background: url('https://cdn.bintangtenggarafm.com/img/wO8J9xT.jpg') no-repeat;
+    background-size: cover; 
+    border-radius: 20px;
+    border: 1px solid #fefefe;
+    box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
+    transition: background-image 1s;
+    margin-bottom: 15px;
+}
+
+.watermark {
+	width: 89px;
+	height: 35px;
+	background-size: auto 35px;
+	opacity: 0.5;
+	position: relative;
+	bottom: 36px;
+	right: -1px;
+	z-index: 5;
+}
+#currentCoverArt {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    transition: background-image 1s;
+}
+.info-current-song {
+    font-family: poppins,sans-serif;
+}
+.info-current-song h2 {
+    color: rgba(255,255,255,0.9)!important;
+}
+.info-current-song h3 {
+    color: rgba(255,255,255,0.9)!important;
+}
+.play-pause i {
+    color: rgba(221,81,16,1)!important;
+}
+
+.bg-mask {
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    background: radial-gradient(rgba(0,0,0,.5) 20%,rgba(33,33,33,1) 85%)!important;
+    z-index: 2;
+} 
+
+.historic .cover-historic {
+    width: 95px;
+    height: 95px;
+    margin-right: 15px;
+    float: left;
+    background: url('https://cdn.bintangtenggarafm.com/img/wO8J9xT.jpg') no-repeat;
+    background-size: cover; 
+    border-radius: 20px;
+    border: 2px solid #fefefe;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-image 1s;
+} 
+.historic .music-info {
+    color: #fff;
+    font-family: poppins,sans-serif;
+}
+</style>
 </head>
 
 <body>
@@ -32,7 +113,7 @@
         <div class="bg-mask"></div>
     </div>
     <main>
-        <section id="player">
+       <section id="player">
             <div class="container">
                 <div class="row web-player">
                     <div class="col-12 col-lg-10">
@@ -115,8 +196,8 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script type="text/javascript" src="https://warningfm.github.io/v3/js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://warningfm.github.io/v3/js/popper.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script> 
     <script type="text/javascript" src="config.js"></script>
     <script type="text/javascript" src="js/bintang.js?3892920001991"></script> 
