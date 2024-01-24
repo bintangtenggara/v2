@@ -140,28 +140,36 @@
 <script type="text/javascript">
 var settings = {
     'radio_name': 'BINTANG TENGGARA',
-    'url_streaming': 'https://sv.stri.my.id:8360/rbtfm',
-	'artworkurl': 'https://artwork.rcast.net/62831',
-	'statusurl': 'https://status.rcast.net/62831',
-    'default_cover_art': 'https://players.rcast.net/uploads/images/202312/img_x300_658d26cfee9e79-47919406-43610464.png',
-    'updateinterval': '32000',
-    'volume': '',
-    'amazon_aff_active': true,
-    'amazonaff': 'rcast-20',
-    'autoplay': 'true',
 
+    // URL of streaming without / on the final, eg: http://streaming.com:8080
+    'url_streaming': 'https://stream.zeno.fm/r4mpcrfwfzzuv',
+
+    // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
+    // Choose between 'shoutcast' or 'icecast' or 'zeno'
+    'streaming_type': 'zeno',
+
+    // Visit https://api.vagalume.com.br/docs/ to get your API key
+    'api_key': '18fe07917957c289983464588aabddfb',
+
+    // Set to true to get the last songs played
+    'historic': true,
+
+    // Only for SHOUTCast!
+    // Set to true to show the next song to be played. 
+    // Make sure your streaming show this information!
+    'next_song': false,
+
+    // Path to default cover art when none are found
+    'default_cover_art': 'https://live.staticflickr.com/65535/53459011184_1df18fcc82_b.jpg',
 };
 
 const RADIO_NAME = settings.radio_name;
 const URL_STREAMING = settings.url_streaming;
-const ARTWORKURL = settings.artworkurl;
-const STATUSURL = settings.statusurl;
+const STREAMING_TYPE = settings.streaming_type;
+const API_KEY = settings.api_key;
+const HISTORIC = settings.historic;
+const NEXT_SONG = settings.next_song;
 const DEFAULT_COVER_ART = settings.default_cover_art;
-const UPDATEINTERVAL = settings.updateinterval;
-const VOLUME = settings.volume;
-const AMAZONAFFACTIVE = settings.amazon_aff_active;
-const AMAZONAFF = settings.amazonaff;
-const AUTOPLAY = settings.autoplay;
 </script>
 <script type="text/javascript" src="/js/bintang.js?3892920001991"></script>
 <small style="bottom: 8px;font-size: 8px;position: fixed;right: 8px;text-shadow: 0px 0px 4px rgba(0, 0, 0, 1);z-index: 1004;"><b><a style="color:#fff;text-decoration: none;" target="_blank" href="https://www.rcast.net" title="Internet Radio Hosting">RCAST.NET</a></b></small>
