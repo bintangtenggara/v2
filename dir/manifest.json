@@ -1,0 +1,19 @@
+{
+  "short_name": "EmpresarialHost",
+  "name": "empresarialhost",
+  "icons": [
+    {
+      "src": "https://empresarialhost.com/radio/playershoutcastv2/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "description": "Radio App",
+  "start_url": "https://empresarialhost.com/radio/playershoutcastv2/",
+  "scope": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ffe100",
+  "background_color": "#ffe100"
+}
