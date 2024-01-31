@@ -61,35 +61,34 @@ function Page() {
 
         // Defining Track Backgrounds - Above
         const JINGLESETELAHIKLAN = "https://cdn.bintangtenggarafm.com/img/dbwvp4y.png";
-        const Commercialbreak = "https://m.media-amazon.com/images/I/81tiNQBu7bL._UF1000,1000_QL80_.jpg";
+        const Cbreak = "https://cdn.bintangtenggarafm.com/img/gMzoJtq.jpg";
         const RadioBintangTenggara = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLSPAs-qRbddzeii-poy3k5Tsz26fYDw8AFeK04iNOxM1HCD6zMOmi5i9bhK6FBGDree32YzCUhiThpyFYr5Cd9A4yiHlOH9MnYPlH3psMW_zzRL0I6yCuMuAA1RvFfGSJEsY0UY3kQjG8xUDSarEVEWBdFS046suoDe25Ar0K8izBvMwrJIZl-aJ_U_1I/s1600/fF8yUE0.png";
-        const SolusiSehat ="https://cdn.bintangtenggarafm.com/img/bYMcyie.png";
-        const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/9f/55/fwWLo8Ea_t.jpg";
-        const JINGLE = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
-        const JELAJAHDESA = "https://live.staticflickr.com/65535/53458825460_e0e9c45aba.jpg";
-        const TS = "https://images2.imgbox.com/20/89/lHULgj2p_o.jpg";
+        const SolusiSehat ="https://thumbs2.imgbox.com/f8/ca/GwuLQxLZ_t.jpg";
+        const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/d1/20/NYuawDvh_t.jpg";
+        const jingle = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
+        const JELAJAHDESA = "https://thumbs2.imgbox.com/7e/dc/vOGdajpd_t.jpg";
+        const TS = "https://thumbs2.imgbox.com/20/89/lHULgj2p_t.jpg";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/512x512bb.png";
         const LylaBand = "https://2.bp.blogspot.com/_RgDaNmR-Ot8/Scs48y51rpI/AAAAAAAAATk/fvRR3DzK6u8/w1200-h630-p-k-no-nu/lyla3.jpg";
         const WISATABUDAYA = "https://thumbs2.imgbox.com/c9/6a/Q06BTH52_t.jpg";
-        const Dengarkami = 'https://thumbs2.imgbox.com/3f/c4/yx3lPLHp_t.jpg';
+        const NickyAstria = 'https://i.scdn.co/image/ab67616d0000b27313b9a54f0dfb36647b954b95';
         const LAGUPENUTUPRADIO = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/500x500bb.jpg';
         const RENDRAPRASETYO = 'https://live.staticflickr.com/65535/53455348976_e4bc1d6d8c_z.jpg';
         const RONI = 'https://live.staticflickr.com/65535/53454432287_67f8f2c3a7_n.jpg';
         const Silvi = 'https://live.staticflickr.com/65535/53455363926_67074fffcc_z.jpg';
         const NURUL = 'https://live.staticflickr.com/65535/53455379586_f43d29dc84_n.jpg';
-        const Vita = 'https://cdn.idntimes.com/content-images/post/20200914/9d328645-fb36-4cde-8ed3-3942e2dd8bb5-4c61c151c4f9363e53742662069b9bdf.jpeg'; 
-        const Adistya = 'https://i.scdn.co/image/ab67616d0000b273cac7c5e2d5bf5e61ebcbfae1';
-        const Suliyana = 'https://p16-tm-sg.tiktokmusic.me/img/tos-alisg-v-2102/22cdcd441a8044a8b77b0334e7606e4c~c5_500x500.jpg';
-        const EghaLatoya = 'https://i1.sndcdn.com/artworks-000145717002-8rm80q-t500x500.jpg';
-        const GamelAwan = 'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/b5/ef/99b5ef28-8196-0307-dd64-d3defa86eb50/cover.jpg/640x640bb.png';
-        const Syahiba = 'https://i.scdn.co/image/ab67616d00001e02e437ee06c819ae78c68cea8f';
-        const Lusiana = 'https://id-test-11.slatic.net/p/60eb11ec48bf720ce80a1bab4065e08d.jpg';
-        const AlffyRev  = 'https://i.scdn.co/image/ab67616d0000b273d0572746e75788f3a073899b';
-        const Caturarum = 'https://i1.sndcdn.com/artworks-000227858822-l8w6ww-t500x500.jpg';
-        const DemyYoker = 'https://cdns.klimg.com/resized/670x/g/1/1/11_fakta_perjalanan_karir_demy_hardi_pedandut_hits_banyuwangi_tak_punya_niatan_jadi_penyanyi_-_terkesan_dengan_fans_anak-anak/p/demy-20211112-006-non_fotografer_kly.jpg';
-        const AlviAnanta = 'https://joox-cms-image-1251316161.file.myqcloud.com/2021/09/28/8cbaa312-151c-4ba3-b28e-52c5be1c2766.jpg/500';
-        const BintangTenggara = 'https://thumbs2.imgbox.com/b1/4a/3kNlaBwy_t.jpg';
-        const Citizen = 'https://thumbs2.imgbox.com/a0/76/khKDCDJN_t.gif';
+        const ANITA = 'https://live.staticflickr.com/65535/53455501068_3bff1d7b45.jpg';
+        const Dengarkami = 'https://deow9bq0xqvbj.cloudfront.net/image-logo/937464/listen-to-me_300x300.jpg';
+        const BintangTenggara = 'https://images2.imgbox.com/bd/08/ttPaSb5L_o.png';
+        const Tito = 'https://i.scdn.co/image/ab67616d0000b273bb18c21272e15fa7f601eea0';
+        const ASHAR = 'https://thumbs2.imgbox.com/99/21/uJr1nZIi_t.png';
+        const Citizen = 'https://thumbs2.imgbox.com/b1/29/LxXCnvNr_t.jpg';
+        const OpeningRadio = 'https://i.imgur.com/UJpQBhz.jpg';
+        const SLAVICAANGELOVA = 'img/izveduvaci/SLAVICAANGELOVA.jpg';
+        const REGARD = 'img/izveduvaci/REGARD.jpeg';
+        const VASILG = 'img/izveduvaci/VASILG.jpg';
+        const SLATKARISTIKA = 'img/izveduvaci/SLATKARISTIKA.jpg';
+        const ALEKSANDARM = 'img/izveduvaci/ALEKSANDARM.jpg';
         const DZAFER = 'img/izveduvaci/DZAFER.jpg';
         const BOJS = 'img/izveduvaci/BOJS.jpg';
         const MIJ = 'img/izveduvaci/MIJ.jpg';
@@ -111,7 +110,7 @@ function Page() {
         const IGOR = 'img/izveduvaci/IGOR.jpg';
         const DANI = 'img/izveduvaci/DANI.jpg';
         const BTS = 'https://live.staticflickr.com/65535/53459011184_1df18fcc82_b.jpg';
-        const FurkanSert  = 'https://i1.sndcdn.com/artworks-000498456858-0gn1c8-t500x500.jpg';
+        const MAGDALENAC = 'img/izveduvaci/MAGDALENAC.png';
         const ELENAR = 'img/izveduvaci/ELENAR.jpg';
         const LAMBE = 'img/izveduvaci/LABME.jpg';
         const VLATKOL = 'img/izveduvaci/VLATKOL.jpg';
@@ -137,13 +136,17 @@ function Page() {
         const ROBERT = 'img/izveduvaci/ROBERT.jpeg';
         const DSCOLLECTIVE = 'img/izveduvaci/DSCOLLECTIVE.jpg';
         const MIKE = 'img/izveduvaci/TributeMikeOldfield.jpg';
-        
+        const MARSHMELLO = 'img/izveduvaci/MARSHMELLO.jpg';
+        const JASONDERULO = 'img/izveduvaci/JASONDERULO.jpg';
+        const RUDIMENTAL = 'img/izveduvaci/RUDIMENTAL.jpg';
+        const Suliyana = 'img/izveduvaci/DAFTPUNK.jpg';
+
         var artistRadio = info.artist.replace(/&apos;/g, '\'');
         if (artistRadio == 'JINGLE SETELAH IKLAN') {
             var urlCoverArt = JINGLESETELAHIKLAN;
         }
         else if (artistRadio == 'Commercial Break'){
-            var urlCoverArt = Commercialbreak;
+            var urlCoverArt = Cbreak;
         }
         else if (artistRadio == 'Radio Bintang Tenggara'){
             var urlCoverArt = RadioBintangTenggara;
@@ -155,7 +158,7 @@ function Page() {
             var urlCoverArt = TANDAWAKTUSHOLATDHUHUR;
         }
         else if (artistRadio == "JINGLE"){
-            var urlCoverArt = JINGLE;
+            var urlCoverArt = jingle;
         }
         else if (artistRadio == 'JELAJAH DESA'){
             var urlCoverArt = JELAJAHDESA;
@@ -172,8 +175,8 @@ function Page() {
         else if (artistRadio == 'Wisata Budaya'){
             var urlCoverArt = WISATABUDAYA;
         }
-        else if (artistRadio == 'DENGAR KAMI'){
-            var urlCoverArt = DENGARKAMI;
+        else if (artistRadio == 'Nicky Astria'){
+            var urlCoverArt = NickyAstria;
         }
         else if (artistRadio == 'LAGU PENUTUP RADIO'){
             var urlCoverArt = LAGUPENUTUPRADIO;
@@ -190,44 +193,44 @@ function Page() {
         else if (artistRadio == 'NURUL HIDAYAH'){
             var urlCoverArt = NURUL;
         }
-        else if (artistRadio == 'Vita Alvia'){
-            var urlCoverArt = Vita;
+        else if (artistRadio == 'ANITA SUMARDI'){
+            var urlCoverArt = ANITA;
         }
-        else if (artistRadio == 'Suliyana'){
-            var urlCoverArt = Suliyana;
-        }
-        else if (artistRadio == 'Gamel Awan'){
-            var urlCoverArt = GamelAwan;
-        }
-        else if (artistRadio == 'Adistya Mayasari'){
-            var urlCoverArt = Adistya;
-        }
-        else if (artistRadio == 'Egha De Latoya'){
-            var urlCoverArt = EghaLatoya;
-        }
-        else if (artistRadio == 'Syahiba Saufa'){
-            var urlCoverArt = Syahiba;
-        }
-        else if (artistRadio == 'Lusiana Safara'){
-            var urlCoverArt = Lusiana;
-        }
-        else if (artistRadio == 'Alffy Rev'){
-            var urlCoverArt = AlffyRev;
-        }
-        else if (artistRadio == 'Catur arum'){
-            var urlCoverArt = Caturarum;
-        }
-        else if (artistRadio == 'Demy Yoker'){
-            var urlCoverArt = DemyYoker;
-        }
-        else if (artistRadio == 'Alvi Ananta'){
-            var urlCoverArt = AlviAnanta;
+        else if (artistRadio == 'DENGAR KAMI'){
+            var urlCoverArt = Dengarkami;
         }
         else if (artistRadio == 'Bintang Tenggara'){
             var urlCoverArt = BintangTenggara;
         }
+        else if (artistRadio == 'Tito'){
+            var urlCoverArt = Tito;
+        }
+        else if (artistRadio == 'TANDA WAKTU SHOLAT ASHAR'){
+            var urlCoverArt = ASHAR;
+        }
         else if (artistRadio == 'Citizen Journalism'){
             var urlCoverArt = Citizen;
+        }
+        else if (artistRadio == 'Opening Radio'){
+            var urlCoverArt = OpeningRadio;
+        }
+        else if (artistRadio == 'DULE I KOKI'){
+            var urlCoverArt = DULEKOKI;
+        }
+        else if (artistRadio == 'KAROLINA'){
+            var urlCoverArt = KAROLINA;
+        }
+        else if (artistRadio == 'SKIPI I TYZEE'){
+            var urlCoverArt = SKIPIITYZEE;
+        }
+        else if (artistRadio == 'JOVAN JOVANOV'){
+            var urlCoverArt = JOVANJOVANOV;
+        }
+        else if (artistRadio == 'VLATKO LOZANOVSKI'){
+            var urlCoverArt = VLATKOL;
+        }
+        else if (artistRadio == 'LAMBE I LJUPKA'){
+            var urlCoverArt = LAMBE;
         }
         else if (artistRadio == 'LAMBE ALABAKOVSKI'){
             var urlCoverArt = LAMBE;
@@ -244,8 +247,8 @@ function Page() {
         else if (artistRadio = 'BTS'){
             var urlCoverArt = BTS;
         }
-        else if (artistRadio == 'Furkan Sert'){
-            var urlCoverArt = FurkanSert ;
+        else if (artistRadio == 'DANI'){
+            var urlCoverArt = DANI;
         }
         else if (artistRadio == 'IGOR DZAMBAZOV'){
             var urlCoverArt = IGOR;
@@ -397,17 +400,17 @@ function Page() {
         else if (artistRadio == 'CAT38'){
             var urlCoverArt = CAT32;
         }
-        else if (artistRadio == 'Gamel Awan'){
-            var urlCoverArt = GamelAwan;
+        else if (artistRadio == 'FON2020'){
+            var urlCoverArt = FON2020;
         }
-        else if (artistRadio == 'Vita Alvia'){
-            var urlCoverArt = Vita;
+        else if (artistRadio == '06 KANAL77'){
+            var urlCoverArt = FON2020;
         }
-        else if (artistRadio == 'Adistya Mayasari'){
-            var urlCoverArt = Adistya;
+        else if (artistRadio == '01 SHOW OPENER'){
+            var urlCoverArt = FON2020;
         }
-        else if (artistRadio == 'Egha De Latoya'){
-            var urlCoverArt = EghaLatoya;
+        else if (artistRadio == 'KYGO'){
+            var urlCoverArt = KYGO;
         }
         else if (artistRadio == 'Suliyana'){
             var urlCoverArt = Suliyana;
