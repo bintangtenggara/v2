@@ -24,15 +24,6 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-
-const RADIO_NAME = settings.radio_name;
-const URL_STREAMING = settings.url_streaming;
-const STREAMING_TYPE = settings.streaming_type;
-const API_KEY = settings.api_key;
-const HISTORIC = settings.historic;
-const NEXT_SONG = settings.next_song;
-const DEFAULT_COVER_ART = settings.default_cover_art;
-
 var zenoid = 'r4mpcrfwfzzuv'
 
 window.onload = function () {
