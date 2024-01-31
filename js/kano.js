@@ -1,9 +1,6 @@
 /*
 The MIT License (MIT)
 
-/*
-The MIT License (MIT)
-
 Github: https://github.com/gsavio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
