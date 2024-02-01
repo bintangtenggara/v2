@@ -101,7 +101,7 @@ function Page() {
         const ASHAR = 'https://thumbs2.imgbox.com/99/21/uJr1nZIi_t.png';
         const Citizen = 'https://thumbs2.imgbox.com/b1/29/LxXCnvNr_t.jpg';
         const OpeningRadio = 'https://i.imgur.com/UJpQBhz.jpg';
-        const SLAVICAANGELOVA = 'img/izveduvaci/SLAVICAANGELOVA.jpg';
+        const RAYE = 'https://i1.sndcdn.com/artworks-XnuuNNSePazLtEnO-dhrBrQ-t500x500.jpg';
         const REGARD = 'img/izveduvaci/REGARD.jpeg';
         const VASILG = 'img/izveduvaci/VASILG.jpg';
         const SLATKARISTIKA = 'img/izveduvaci/SLATKARISTIKA.jpg';
@@ -231,8 +231,8 @@ function Page() {
         else if (artistRadio == 'Opening Radio'){
             var urlCoverArt = OpeningRadio;
         }
-        else if (artistRadio == 'DULE I KOKI'){
-            var urlCoverArt = DULEKOKI;
+        else if (artistRadio == 'RAYE Ft 070 Shake'){
+            var urlCoverArt = RAYE;
         }
         else if (artistRadio == 'KAROLINA'){
             var urlCoverArt = KAROLINA;
