@@ -96,7 +96,7 @@ function Page() {
         const NURUL = 'https://live.staticflickr.com/65535/53455379586_f43d29dc84_n.jpg';
         const ANITA = 'https://live.staticflickr.com/65535/53455501068_3bff1d7b45.jpg';
         const Dengarkami = 'https://deow9bq0xqvbj.cloudfront.net/image-logo/937464/listen-to-me_300x300.jpg';
-        const BintangTenggara = 'https://images2.imgbox.com/bd/08/ttPaSb5L_o.png';
+        const BintangTenggara = 'https://thumbs2.imgbox.com/f5/64/PLw7SiIT_t.jpg';
         const Tito = 'https://i.scdn.co/image/ab67616d0000b273bb18c21272e15fa7f601eea0';
         const ASHAR = 'https://thumbs2.imgbox.com/99/21/uJr1nZIi_t.png';
         const Citizen = 'https://thumbs2.imgbox.com/b1/29/LxXCnvNr_t.jpg';
@@ -479,7 +479,7 @@ function Page() {
         const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/d1/20/NYuawDvh_t.jpg";
         const jingle = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://thumbs2.imgbox.com/7e/dc/vOGdajpd_t.jpg";
-        const TS = "https://i.imgur.com/P8KFcGD.png";
+        const TS = "https://thumbs2.imgbox.com/cb/a2/63Rsmxe5_t.png";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/640x640bb.png";
         const LylaBand = 'https://2.bp.blogspot.com/_RgDaNmR-Ot8/Scs48y51rpI/AAAAAAAAATk/fvRR3DzK6u8/w1200-h630-p-k-no-nu/lyla3.jpg';
         const WISATABUDAYA = 'https://thumbs2.imgbox.com/c9/6a/Q06BTH52_t.jpg';
@@ -491,7 +491,7 @@ function Page() {
         const NURUL = 'https://live.staticflickr.com/65535/53455379586_f43d29dc84_n.jpg';
         const ANITA = 'https://live.staticflickr.com/65535/53455501068_3bff1d7b45.jpg';
         const Dengarkami = 'https://thumbs2.imgbox.com/3f/c4/yx3lPLHp_t.jpg';
-        const BintangTenggara = 'https://images2.imgbox.com/bd/08/ttPaSb5L_o.png';
+        const BintangTenggara = 'https://thumbs2.imgbox.com/f5/64/PLw7SiIT_t.jpg';
         const Tito = 'https://i.scdn.co/image/ab67616d0000b273bb18c21272e15fa7f601eea0';
         const ASHAR = 'https://thumbs2.imgbox.com/99/21/uJr1nZIi_t.png';
         const Citizen = 'https://thumbs2.imgbox.com/b1/29/LxXCnvNr_t.jpg';
