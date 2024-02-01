@@ -9,7 +9,7 @@
 */
 
 var settings = {
-    'radio_name': 'BINTANG TENGGARA',
+    'radio_name': 'FM 95.6 MHz',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
     'url_streaming': 'https://stream.zeno.fm/r4mpcrfwfzzuv',
