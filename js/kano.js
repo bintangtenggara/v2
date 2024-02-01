@@ -84,7 +84,7 @@ function Page() {
         const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/d1/20/NYuawDvh_t.jpg";
         const jingle = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://thumbs2.imgbox.com/7e/dc/vOGdajpd_t.jpg";
-        const TS = "https://thumbs2.imgbox.com/20/89/lHULgj2p_t.jpg";
+        const TS = "https://i.imgur.com/P8KFcGD.png";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/512x512bb.png";
         const LylaBand = "https://2.bp.blogspot.com/_RgDaNmR-Ot8/Scs48y51rpI/AAAAAAAAATk/fvRR3DzK6u8/w1200-h630-p-k-no-nu/lyla3.jpg";
         const WISATABUDAYA = "https://thumbs2.imgbox.com/c9/6a/Q06BTH52_t.jpg";
@@ -479,7 +479,7 @@ function Page() {
         const TANDAWAKTUSHOLATDHUHUR = "https://thumbs2.imgbox.com/d1/20/NYuawDvh_t.jpg";
         const jingle = "https://thumbs2.imgbox.com/9f/91/Dlzeilaz_t.jpg";
         const JELAJAHDESA = "https://thumbs2.imgbox.com/7e/dc/vOGdajpd_t.jpg";
-        const TS = "https://thumbs2.imgbox.com/20/89/lHULgj2p_t.jpg";
+        const TS = "https://i.imgur.com/P8KFcGD.png";
         const ADZANMAGHRIB = "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/25/c15925c6-d225-d3fb-aba2-29f36a67dd57/717124148517.png/640x640bb.png";
         const LylaBand = 'https://2.bp.blogspot.com/_RgDaNmR-Ot8/Scs48y51rpI/AAAAAAAAATk/fvRR3DzK6u8/w1200-h630-p-k-no-nu/lyla3.jpg';
         const WISATABUDAYA = 'https://thumbs2.imgbox.com/c9/6a/Q06BTH52_t.jpg';
