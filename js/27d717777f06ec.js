@@ -13,7 +13,7 @@
         sid: 1,  
         direct: true,  
         betaProxies: false,
-        //directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
+        directStreamURL: 'https://cors-proxy.elfsight.com/http://scure.streaming.id:8000/mbahnunungonline',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: true, 
         minimizeMaximize: true,
