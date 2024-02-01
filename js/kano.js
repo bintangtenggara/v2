@@ -496,7 +496,7 @@ function Page() {
         const ASHAR = 'https://thumbs2.imgbox.com/99/21/uJr1nZIi_t.png';
         const Citizen = 'https://thumbs2.imgbox.com/b1/29/LxXCnvNr_t.jpg';
         const OpeningRadio = 'https://i.imgur.com/UJpQBhz.jpg';
-        const SLAVICAANGELOVA = 'img/izveduvaci/SLAVICAANGELOVA.jpg';
+        const RAYE = 'https://i1.sndcdn.com/artworks-XnuuNNSePazLtEnO-dhrBrQ-t500x500.jpg';
         const REGARD = 'img/izveduvaci/REGARD.jpeg';
         const VASILG = 'img/izveduvaci/VASILG.jpg';
         const SLATKARISTIKA = 'img/izveduvaci/SLATKARISTIKA.jpg';
@@ -823,8 +823,8 @@ function Page() {
         else if (artist == 'KYGO'){
             var urlCoverArt = KYGO;
         }
-        else if (artist == 'JUSTIN BIEBER'){
-            var urlCoverArt = JUSTIN;
+        else if (artist == 'RAYE Ft 070 Shake'){
+            var urlCoverArt = RAYE;
         }
         else {
         var urlCoverArt = DEFAULT_COVER_ART;
