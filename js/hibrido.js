@@ -1209,7 +1209,7 @@ if (w.metadatatechnic === "corsproxy") {
                     top: "0px",
                     left: "0px",
  "-webkit-filter": "blur(20px)", 
-                filter: "blur(10px)", //efecto blur desenfoque
+                filter: "blur(20px)", //blur effect
 
                     width: "100%",
                     height: "100%"
