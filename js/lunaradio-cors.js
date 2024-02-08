@@ -2,8 +2,8 @@
  LUNA RADIO PLAYER V5.21.01.28
  https://www.luna-universe.com
 
- Copyright (C) VOCES PTM | 2023
- https://www.vocesparatumarca.com
+ Copyright (C) NNG.NET | 2024
+ https://mbahnunungonline.net/live
 
 */
 (function(d, G) {
@@ -1217,7 +1217,7 @@ if (w.metadatatechnic === "corsproxy") {
                     top: "0px",
                     left: "0px",
  "-webkit-filter": "blur(20px)", 
-                filter: "blur(20px)",  //blur effect
+                filter: "blur(10px)",  //blur effect
                     width: "100%",
                     height: "100%",
                 });
