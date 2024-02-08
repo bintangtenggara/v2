@@ -1,10 +1,9 @@
-//<![CDATA[
 /*
  LUNA RADIO PLAYER V5.21.01.28
  https://www.luna-universe.com
 
- Copyright (C) SODAH | JOERG KRUEGER
- https://www.sodah.de
+ Copyright (C) VOCES PTM | 2023
+ https://www.vocesparatumarca.com
 
 */
 (function(d, G) {
@@ -44,9 +43,10 @@
             e("Roboto:400");
             "" != eb && e(eb);
             a = "@keyframes " + c + "pulse { ";
-            a = a + "\t0% { \t  fill: rgba(255, 255, 255, 1.0);";
-            a = a + "\t} \t50% { \t  fill: rgba(212, 7, 7, 1.0); ";
-            a = a + "\t} \t100% { \t\tfill: rgba(255, 255, 255, 1.0); ";
+            a = a + "\t0% { \t  fill: rgba(" + f(A).r + ", " + f(A).g + ", " + f(A).b + ", 1.0);";
+            a = a + "\t} \t50% { \t  fill: rgba(" + f(u).r + ", " +
+                f(u).g + ", " + f(u).b + ", 1.0); ";
+            a = a + "\t} \t100% { \t\tfill: rgba(" + f(A).r + ", " + f(A).g + ", " + f(A).b + ", 1.0); ";
             a += "\t} }";
             d("head").append('<style type="text/css">' + a + "</style>");
             a = window.location.href.toString().toLocaleLowerCase();
@@ -290,9 +290,9 @@
                     "background-repeat": "no-repeat",
                     "background-size": "cover"
                 });
-                1 == ta ? d("#" + c + "coverwrapper2, #" + c + "smallcoverwrapper2").css({
+                1 == ta ? d("#" + c + "backgroundimage2, #" + c + "coverwrapper2, #" + c + "smallcoverwrapper2").css({
                     opacity: "0.0"
-                }) : d("#" + c + "coverwrapper1, #" + c + "smallcoverwrapper1").css({
+                }) : d("#" + c + "backgroundimage1, #" + c + "coverwrapper1, #" + c + "smallcoverwrapper1").css({
                     opacity: "0.0"
                 })
             }))
@@ -580,7 +580,7 @@ if (w.metadatatechnic === "corsproxy") {
                 transition: "fill 0.5s",
                 cursor: "pointer",
                 fill: A
-            }).html('<svg class="lunaradiovisualizericon" x="0px" y="0px" viewBox="0 0 800 800"><path d="M180.3,729.4h-72.4c-13.5,0-24.5-11-24.5-24.5V235.8c0-13.5,11-24.5,24.5-24.5h72.4c13.5,0,24.5,11,24.5,24.5v469.1\tC204.7,718.4,193.7,729.4,180.3,729.4"/><path d="M351,729.4h-72.4c-13.5,0-24.5-11-24.5-24.5V331.7c0-13.5,11-24.5,24.5-24.5H351c13.5,0,24.5,11,24.5,24.5v373.2\tC375.4,718.4,364.4,729.4,351,729.4"/><path d="M521.9,729.4h-72.4c-13.5,0-24.5-11-24.5-24.5V95.1c0-13.5,11-24.5,24.5-24.5h72.4c13.5,0,24.5,11,24.5,24.5v609.8\tC546.3,718.4,535.3,729.4,521.9,729.4"/><path d="M692.1,729.4h-72.4c-13.5,0-24.5-11-24.5-24.5V331.7c0-13.5,11-24.5,24.5-24.5h72.4c13.5,0,24.5,11,24.5,24.5v373.2\tC716.6,718.4,705.6,729.4,692.1,729.4"/></svg>').on("mouseenter",
+            }).html('<svg class="lunaradiovisualizericon" x="0px" y="0px" viewBox="0 0 24 24"><path d="M22 12L20 13L19 14L18 13L17 16L16 13L15 21L14 13L13 15L12 13L11 17L10 13L9 22L8 13L7 19L6 13L5 14L4 13L2 12L4 11L5 10L6 11L7 5L8 11L9 2L10 11L11 7L12 11L13 9L14 11L15 3L16 11L17 8L18 11L19 10L20 11L22 12Z"/></svg>').on("mouseenter",
                 function() {
                     d(this).css("fill", u)
                 }).on("mouseleave", function() {
@@ -706,7 +706,7 @@ if (w.metadatatechnic === "corsproxy") {
                 height: "100%",
                 transition: "fill 0.5s",
                 fill: A
-            }).html('<svg class="lunaradioplayicon" x="0px" y="0px"\t viewBox="0 0 800 800" ><path d="M22 12C22 6.46 17.54 2 12 2C10.83 2 9.7 2.19 8.62 2.56L9.32 4.5C10.17 4.16 11.06 3.97 12 3.97C16.41 3.97 20.03 7.59 20.03 12C20.03 16.41 16.41 20.03 12 20.03C7.59 20.03 3.97 16.41 3.97 12C3.97 11.06 4.16 10.12 4.5 9.28L2.56 8.62C2.19 9.7 2 10.83 2 12C2 17.54 6.46 22 12 22C17.54 22 22 17.54 22 12M5.47 3.97C6.32 3.97 7 4.68 7 5.47C7 6.32 6.32 7 5.47 7C4.68 7 3.97 6.32 3.97 5.47C3.97 4.68 4.68 3.97 5.47 3.97M18 12C18 8.67 15.33 6 12 6C8.67 6 6 8.67 6 12C6 15.33 8.67 18 12 18C15.33 18 18 15.33 18 12M15 12L10 15V9"/></svg>').on("mouseenter",
+            }).html('<svg class="lunaradioplayicon" x="0px" y="0px"\t viewBox="0 0 800 800" ><path d="M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M10,16.5L16,12L10,7.5V16.5Z"/></svg>').on("mouseenter",
                 function() {
                     d(this).css("fill", u)
                 }).on("mouseleave", function() {
@@ -723,7 +723,7 @@ if (w.metadatatechnic === "corsproxy") {
                 height: "100%",
                 transition: "fill 0.5s",
                 fill: A
-            }).html('<svg class="lunaradiopauseicon" x="0px" y="0px" viewBox="0 0 800 800" ><path d="M22 12C22 6.46 17.54 2 12 2C10.83 2 9.7 2.19 8.62 2.56L9.32 4.5C10.17 4.16 11.06 3.97 12 3.97C16.41 3.97 20.03 7.59 20.03 12C20.03 16.41 16.41 20.03 12 20.03C7.59 20.03 3.97 16.41 3.97 12C3.97 11.06 4.16 10.12 4.5 9.28L2.56 8.62C2.19 9.7 2 10.83 2 12C2 17.54 6.46 22 12 22C17.54 22 22 17.54 22 12M5.47 3.97C6.32 3.97 7 4.68 7 5.47C7 6.32 6.32 7 5.47 7C4.68 7 3.97 6.32 3.97 5.47C3.97 4.68 4.68 3.97 5.47 3.97M18 12C18 8.67 15.33 6 12 6C8.67 6 6 8.67 6 12C6 15.33 8.67 18 12 18C15.33 18 18 15.33 18 12M11 9V15H9V9M15 9V15H13V9"/></svg>').on("mouseenter",
+            }).html('<svg class="lunaradiopauseicon" x="0px" y="0px" viewBox="0 0 800 800" ><path d="M13,16V8H15V16H13M9,16V8H11V16H9M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z"/></svg>').on("mouseenter",
                 function() {
                     d(this).css("fill", u)
                 }).on("mouseleave", function() {
@@ -833,7 +833,7 @@ if (w.metadatatechnic === "corsproxy") {
             });
             "circle" == Na && (d("#" + c + "coverwrapper, #" + c + "coverwrapper1, #" + c + "coverwrapper2").css({
                 "border-radius": "50%"
-            }), d("#" + c + "backgroundimage").css({
+            }), d("#" + c + "backgroundimage, #" + c + "backgroundimage1, #" + c + "backgroundimage2").css({
                 "border-radius": "50%"
             }))
         }
@@ -2042,7 +2042,6 @@ if (w.metadatatechnic === "corsproxy") {
             lowerize: function(e) {
                 return e.toLowerCase()
             },
-
             major: function(e) {
                 return "string" === typeof e ? e.replace(/[^\d\.]/g, "").split(".")[0] : G
             },
