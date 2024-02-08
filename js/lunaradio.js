@@ -742,10 +742,6 @@ if (w.metadatatechnic === "corsproxy") {
             }).html('<svg x="0px" y="0px" viewBox="5 5 40 40"><path d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z" transform="rotate(39.9522 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg>').fadeOut(0).lunaradiodisableSelection()
         }
 
-
-
-
-
         function wb(b) {
             var a = document.createElement("div");//efecto blur OFICIAL
            a.id = c + "backgroundimage";
@@ -757,12 +753,8 @@ if (w.metadatatechnic === "corsproxy") {
                 height: "100%",
                 width: "100%",
                 opacity: "1.0"
-                
     
             });
-            
-            
-            
             
             b = document.createElement("div");
             b.id = c + "backgroundimage1";
@@ -1224,8 +1216,8 @@ if (w.metadatatechnic === "corsproxy") {
                     filter: "saturate(1.2)",
                     top: "0px",
                     left: "0px",
- "-webkit-filter": "blur(40px)", 
-                filter: "blur(10px)", //efecto blur desenfoque
+ "-webkit-filter": "blur(20px)", 
+                filter: "blur(20px)",  //blur effect
                     width: "100%",
                     height: "100%",
                 });
