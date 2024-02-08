@@ -743,7 +743,7 @@ if (w.metadatatechnic === "corsproxy") {
         }
 
         function wb(b) {
-            var a = document.createElement("div");//efecto blur OFICIAL
+            var a = document.createElement("div"); //efect blur OFICIAL
            a.id = c + "backgroundimage";
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
