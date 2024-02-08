@@ -1,4 +1,4 @@
-/*
+/*R
  LUNA RADIO PLAYER V5.21.01.28
  https://www.luna-universe.com
 
@@ -743,7 +743,7 @@ if (w.metadatatechnic === "corsproxy") {
         }
 
         function wb(b) {
-            var a = document.createElement("div");//efecto blur OFICIAL
+            var a = document.createElement("div"); //blur effect official
            a.id = c + "backgroundimage";
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
@@ -2968,5 +2968,3 @@ if (w.metadatatechnic === "corsproxy") {
         })
     }
 })(jQuery);
-
-//]]>
