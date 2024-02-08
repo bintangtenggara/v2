@@ -1212,14 +1212,14 @@ if (w.metadatatechnic === "corsproxy") {
                 });
                 d("#" + c + "backgroundimage").css({
                     "-webkit-filter": "saturate(1.2)",
+                    position: "absolute",
                     filter: "saturate(1.2)",
                     top: "0px",
                     left: "0px",
  "-webkit-filter": "blur(20px)", 
-                filter: "blur(20px)", //efecto blur desenfoque
-
+                filter: "blur(20px)",  //blur effect
                     width: "100%",
-                    height: "100%"
+                    height: "100%",
                 });
                 a = x / 8;
                 var h = a / 2,
