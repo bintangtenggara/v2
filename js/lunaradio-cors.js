@@ -743,8 +743,8 @@ if (w.metadatatechnic === "corsproxy") {
         }
 
         function wb(b) {
-            var a = document.createElement("div");
-            a.id = c + "backgroundimage";
+            var a = document.createElement("div");//efecto blur OFICIAL
+           a.id = c + "backgroundimage";
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
                 position: "absolute",
@@ -752,9 +752,37 @@ if (w.metadatatechnic === "corsproxy") {
                 top: "0px",
                 height: "100%",
                 width: "100%",
-                "-webkit-filter": "blur(40px)",
-                filter: "blur(40px)",
                 opacity: "1.0"
+    
+            });
+            
+            b = document.createElement("div");
+            b.id = c + "backgroundimage1";
+            a.appendChild(b);
+            d("#" + c + "backgroundimage1").css({
+                position: "absolute",
+                left: "0px",
+                top: "0px",
+                height: "100%",
+                width: "100%",
+                transition: "opacity 1s",
+                opacity: "0.0",
+                "background-repeat": "no-repeat",
+                "background-size": "cover"
+            });
+            b = document.createElement("div");
+            b.id = c + "backgroundimage2";
+            a.appendChild(b);
+            d("#" + c + "backgroundimage2").css({
+                position: "absolute",
+                left: "0px",
+                top: "0px",
+                height: "100%",
+                width: "100%",
+                transition: "opacity 1s",
+                opacity: "0.0",
+                "background-repeat": "no-repeat",
+                "background-size": "cover"
             })
         }
 
