@@ -22,13 +22,13 @@ body {
     background-attachment: fixed;
 }
 
-/* FONDO DESENFOQUE */
+/* BLUR BACKGROUND */
 
 .bg-mask {
     min-width: 100%;
     min-height: 100%;
     position: absolute;
-     background-color: rgba(0,0,0,0.0);
+    background-color: rgba(0,0,0,0.0);
     z-index: 2;
 }
 
@@ -70,7 +70,7 @@ body {
 .info-current-song {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-	color: #fff;
+    color: #fff;
 }
 
 .info-current-song h2 {
