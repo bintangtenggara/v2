@@ -15,7 +15,7 @@ body {
     min-width: 100%;
     min-height: 100%;
     position: fixed;
-    background: url('https://i.imgur.com/B0PYHAq.jpg') no-repeat;
+    background: url('../img/bg_site.jpg') no-repeat;
     background-position: center;
     background-size: cover;
     transition: background-image 5s;
