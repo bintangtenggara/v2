@@ -32,7 +32,6 @@ body {
     z-index: 2;
 }
 
-
 .web-player {
     height: 100%;
     color: #fff;
@@ -51,11 +50,8 @@ body {
     box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
     border-radius: 15px;
-
     margin-bottom: 15px;
 }
-
-
 
 #currentCoverArt {
     width: 100%;
@@ -63,8 +59,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-     border-radius: 10px;
-  
+    border-radius: 10px;
     transition: background-image 1s;
 }
 
@@ -80,7 +75,7 @@ body {
 
 .info-current-song h2 {
     font-size: 25px;
-	text-shadow: 3px 2px 2px black;
+    text-shadow: 3px 2px 2px black;
     text-transform: uppercase;
     font-weight: 800;
    
@@ -88,16 +83,13 @@ body {
 
 .info-current-song h3 {
     font-size: 22px;
-   
     font-weight: 600;
-	
-	text-shadow: 3px 2px 2px black;
+    text-shadow: 3px 2px 2px black;
 }
 
 .play-pause {
     font-size: 50px;
-
-   
+ 
  
 }
 
@@ -116,7 +108,7 @@ body {
 
 .volume-control {
     display: none;
-	text-shadow: 2px 1px 2px black;
+    text-shadow: 2px 1px 2px black;
 }
 
 .vagalume a {
