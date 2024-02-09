@@ -64,6 +64,10 @@ function Page() {
         var $historicDiv = document.querySelectorAll('#historicSong article');
         var $songName = document.querySelectorAll('#historicSong article .music-info .song');
         var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
+    this.refreshHistoric = function (info, n) {
+        var $historicDiv = document.querySelectorAll('#historicSong article');
+        var $songName = document.querySelectorAll('#historicSong article .music-info .song');
+        var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
 
         // Default cover art
         var urlCoverArt = 'img/cover.png';
