@@ -6,7 +6,7 @@ const RADIO_NAME = 'Bintang Tenggara Live';
 var API_SERVICE = 'spotify';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR ETC.... DOES NOT SUPPORT HLS
-const URL_STREAMING = 'https://stream.zeno.fm/r4mpcrfwfzzuv';
+const URL_STREAMING = 'https://stream.zeno.fm/n4gzbe9ufzzuv';
 
 //NOW PLAYING API.
 const API_URL = 'https://api-v2.streamafrica.net/metadata?url=' + URL_STREAMING
