@@ -13,7 +13,7 @@
         sid: 1,  
         direct: true,  
         betaProxies: false,
-        //directStreamURL: 'https://sv.stri.my.id/radio/8360/rbtfm',
+        directStreamURL: 'https://asv.alhastream.com/radio/3210/rbtradio',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: true, 
         minimizeMaximize: true,
