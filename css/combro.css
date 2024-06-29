@@ -59,7 +59,7 @@ body {
     margin: auto;
     background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13Csq1NAjiEecIgH57eyG_S3xDHoDhPf9Z3oIdzc66hAA30u9beTt_aM5cx0zUJcnNkNcyHnfyrQDTwXZ0fYcTJPlepTlbz6N_eGX5fhNKkuEj1Fx96st7nJvkUKSJwAIajE_lnKm3bkwnWi88pej2_lSPXHEUm0s7do8_gyXPJSl9ugFu6Elb34ax6y_/s1600/cover-album.jpg') no-repeat;
     background-size: cover;
-    border: 1px solid #ff0000;
+    border: 1px solid #fff;
     border-radius: 10px;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
@@ -102,12 +102,12 @@ body {
     text-transform: uppercase;
     font-weight: 800;
     margin: 0 0 .0125em;
-	text-shadow: 2px 2px #303030;
+    text-shadow: 2px 2px #303030;
 }
 .info-current-song h3 {
     font-size: 1rem;   
     font-weight: 600;
-	text-shadow: 2px 2px #303030;
+    text-shadow: 2px 2px #303030;
 }
 
 .current-song {
@@ -284,7 +284,7 @@ input[type=range]::-ms-thumb {
     float: left;
     background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13Csq1NAjiEecIgH57eyG_S3xDHoDhPf9Z3oIdzc66hAA30u9beTt_aM5cx0zUJcnNkNcyHnfyrQDTwXZ0fYcTJPlepTlbz6N_eGX5fhNKkuEj1Fx96st7nJvkUKSJwAIajE_lnKm3bkwnWi88pej2_lSPXHEUm0s7do8_gyXPJSl9ugFu6Elb34ax6y_/s1600/cover-album.jpg') no-repeat; /* ÃƒÂÃ‚Â¸Ãƒâ€˜Ã‚ÂÃƒâ€˜Ã¢â‚¬Å¡ÃƒÂÃ‚Â¾Ãƒâ€˜Ã¢â€šÂ¬ÃƒÂÃ‚Â¸Ãƒâ€˜Ã‹Å“ÃƒÂÃ‚Â° ÃƒÂÃ‚Â·ÃƒÂÃ‚Â° ÃƒÂÃ‚Â¿ÃƒÂÃ‚Â¾ÃƒÂÃ‚Â·ÃƒÂÃ‚Â°ÃƒÂÃ‚Â´ÃƒÂÃ‚Â¸ÃƒÂÃ‚Â½ÃƒÂÃ‚Â° ÃƒÂÃ‚Â½ÃƒÂÃ‚Â° Ãƒâ€˜Ã‚ÂÃƒÂÃ‚Â»ÃƒÂÃ‚Â¸ÃƒÂÃ‚ÂºÃƒÂÃ‚Â° (ÃƒÂÃ‚Â°ÃƒÂÃ‚ÂºÃƒÂÃ‚Â¾ ÃƒÂÃ‚Â½ÃƒÂÃ‚ÂµÃƒÂÃ‚Â¼ÃƒÂÃ‚Â°) */
     background-size: cover;
-    border: 1px solid #ff0000;
+    border: 1px solid #fff;
     border-radius: 10px;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
     transition: background-image 1s;
