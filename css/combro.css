@@ -57,7 +57,7 @@ body {
 .cover-album {
     max-width: 80%;
     margin: auto;
-    background: url('https://images2.imgbox.com/81/57/KzFn43XS_o.png') no-repeat;
+    background: url('https://bintangtenggara.github.io/v2/img/KzFn43XS_o.png') no-repeat;
     background-size: cover;
     border: 1px solid #383838;
     border-radius: 10px;
@@ -282,7 +282,7 @@ input[type=range]::-ms-thumb {
     height: 95px;
     margin-right: 15px;
     float: left;
-    background: url('https://images2.imgbox.com/81/57/KzFn43XS_o.png') no-repeat;
+    background: url('https://bintangtenggara.github.io/v2/img/KzFn43XS_o.png') no-repeat;
     background-size: cover;
     border: 1px solid #383838;
     border-radius: 10px;
