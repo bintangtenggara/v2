@@ -1,4 +1,5 @@
 
+
 # Run php without filename extension
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -18,3 +19,4 @@ RewriteRule ^(.*)$ $1.html
 # Return 404 if original request is .html
 RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.html[? ].*$"
 RewriteRule .* - [L,R=404]
+
